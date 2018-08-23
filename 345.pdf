@@ -1,0 +1,1131 @@
+%PDF-1.3
+%âãÏÓ
+
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R>>
+endobj
+2 0 obj
+<< /Type /Outlines >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+14 0 R
+27 0 R
+]
+/Count 3
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 10 0 R
+/F3 22 0 R >>
+>>
+/MediaBox [0 0 612.0 792.0]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/CreationDate (D:201105050503)
+/Creator (pdf-export.rb)
+/Producer (PDF::Writer for Ruby)
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents [
+7 0 R
+11 0 R
+12 0 R
+13 0 R
+]
+>>
+endobj
+7 0 obj
+<<
+/Length 3916 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+BT 36.000 735.912 Td /F2 18.0 Tf 0 Tr (CSE 3241 \(Approved\): Introduction to Database Systems) Tj ET
+BT 36.000 703.912 Td /F2 14.0 Tf 0 Tr (Course Description) Tj ET
+BT 36.000 689.912 Td /F1 12.0 Tf 0 Tr (Database systems use; logical design; entity-relationship model; normalization; query languages and SQL; ) Tj ET
+BT 36.000 675.912 Td /F1 12.0 Tf 0 Tr (relational algebra and calculus; object relational databases; XML; active databases; database design project.) Tj ET
+BT 36.000 651.912 Td /F2 12.0 Tf 0 Tr (Prior Course Number:) Tj /F1 12.0 Tf 0 Tr ( CSE 670) Tj ET
+BT 36.000 638.520 Td /F2 12.0 Tf 0 Tr (Transcript Abbreviation:) Tj /F1 12.0 Tf 0 Tr ( Intr Database Sys) Tj ET
+BT 36.000 625.128 Td /F2 12.0 Tf 0 Tr (Grading Plan:) Tj /F1 12.0 Tf 0 Tr ( Letter Grade) Tj ET
+BT 36.000 611.736 Td /F2 12.0 Tf 0 Tr (Course Deliveries:) Tj /F1 12.0 Tf 0 Tr ( Classroom) Tj ET
+BT 36.000 598.344 Td /F2 12.0 Tf 0 Tr (Course Levels:) Tj /F1 12.0 Tf 0 Tr ( Undergrad) Tj ET
+BT 36.000 584.952 Td /F2 12.0 Tf 0 Tr (Student Ranks:) Tj /F1 12.0 Tf 0 Tr ( Junior) Tj ET
+BT 36.000 571.560 Td /F2 12.0 Tf 0 Tr (Course Offerings:) Tj /F1 12.0 Tf 0 Tr ( Autumn, Spring) Tj ET
+BT 36.000 558.168 Td /F2 12.0 Tf 0 Tr (Flex Scheduled Course:) Tj /F1 12.0 Tf 0 Tr ( Never) Tj ET
+BT 36.000 544.776 Td /F2 12.0 Tf 0 Tr (Course Frequency:) Tj /F1 12.0 Tf 0 Tr ( Every Year) Tj ET
+BT 36.000 531.384 Td /F2 12.0 Tf 0 Tr (Course Length:) Tj /F1 12.0 Tf 0 Tr ( 14 Week) Tj ET
+BT 36.000 517.992 Td /F2 12.0 Tf 0 Tr (Credits:) Tj /F1 12.0 Tf 0 Tr ( 3.0) Tj ET
+BT 36.000 504.600 Td /F2 12.0 Tf 0 Tr (Repeatable:) Tj /F1 12.0 Tf 0 Tr ( No) Tj ET
+BT 36.000 491.208 Td /F2 12.0 Tf 0 Tr (Time Distribution:) Tj /F1 12.0 Tf 0 Tr ( 3.0 hr Lec) Tj ET
+BT 36.000 477.816 Td /F2 12.0 Tf 0 Tr (Expected out-of-class hours per week:) Tj /F1 12.0 Tf 0 Tr ( 6.0) Tj ET
+BT 36.000 464.424 Td /F2 12.0 Tf 0 Tr (Graded Component:) Tj /F1 12.0 Tf 0 Tr ( Lecture) Tj ET
+BT 36.000 451.032 Td /F2 12.0 Tf 0 Tr (Credit by Examination:) Tj /F1 12.0 Tf 0 Tr ( No) Tj ET
+BT 36.000 437.640 Td /F2 12.0 Tf 0 Tr (Admission Condition:) Tj /F1 12.0 Tf 0 Tr ( No) Tj ET
+BT 36.000 424.248 Td /F2 12.0 Tf 0 Tr (Off Campus:) Tj /F1 12.0 Tf 0 Tr ( Never) Tj ET
+BT 36.000 410.856 Td /F2 12.0 Tf 0 Tr (Campus Locations:) Tj /F1 12.0 Tf 0 Tr ( Columbus) Tj ET
+BT 36.000 397.464 Td /F2 12.0 Tf 0 Tr (Prerequisites and Co-requisites:) Tj /F1 12.0 Tf 0 Tr ( \(CSE 2231 or CSE 321\) and \(CSE 2321 or Math 366\)) Tj ET
+BT 36.000 384.072 Td /F2 12.0 Tf 0 Tr (Exclusions:) Tj /F1 12.0 Tf 0 Tr ( Not open to students with credit for CSE 5241 or CSE 670) Tj ET
+BT 36.000 370.680 Td /F2 12.0 Tf 0 Tr (Cross-Listings:) Tj /F1 12.0 Tf 0 Tr ( ) Tj ET
+BT 36.000 346.680 Td /F2 12.0 Tf 0 Tr (The course is required for this unit's degrees, majors, and/or minors:) Tj /F1 12.0 Tf 0 Tr ( No) Tj ET
+BT 36.000 333.288 Td /F2 12.0 Tf 0 Tr (The course is a GEC:) Tj /F1 12.0 Tf 0 Tr ( No) Tj ET
+BT 36.000 319.896 Td /F2 12.0 Tf 0 Tr (The course is an elective \(for this or other units\) or is a service course for other units:) Tj /F1 12.0 Tf 0 Tr ( Yes) Tj ET
+BT 36.000 295.896 Td /F2 12.0 Tf 0 Tr (Subject/CIP Code:) Tj /F1 12.0 Tf 0 Tr ( 14.0901) Tj ET
+BT 36.000 282.504 Td /F2 12.0 Tf 0 Tr (Subsidy Level:) Tj /F1 12.0 Tf 0 Tr ( Baccalaureate Course) Tj ET
+BT 36.000 250.504 Td /F2 14.0 Tf 0 Tr (Programs) Tj ET
+BT 36.000 238.504 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 218.932 540.000 19.572 re f
+1 w
+Q
+q
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 171.772 Td /F2 14.0 Tf 0 Tr (Course Goals) Tj ET
+BT 36.000 159.772 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.900 0.900 0.900 rg
+36.000 142.432 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 112.112 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 81.792 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 51.472 540.000 15.160 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+endstream
+endobj
+
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Encoding
+/BaseEncoding /WinAnsiEncoding
+
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Bold
+/Encoding 9 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 118 >>
+stream
+
+BT 41.000 223.112 Td /F2 12.0 Tf 0 Tr (Abbreviation) Tj ET
+BT 266.234 223.112 Td /F2 12.0 Tf 0 Tr (Description) Tj ET
+endstream
+endobj
+
+12 0 obj
+<<
+/Length 425 >>
+stream
+
+BT 41.000 205.772 Td /F1 10.0 Tf 0 Tr (BS CSE) Tj ET
+BT 266.234 205.772 Td /F1 10.0 Tf 0 Tr (BS Computer Science and Engineering) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 216.752 m
+576.000 216.752 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 238.504 m
+36.000 201.592 l S
+1 w
+261.234 238.504 m
+261.234 201.592 l S
+1 w
+576.000 238.504 m
+576.000 201.592 l S
+35.500 238.504 m
+576.500 238.504 l S
+35.500 201.592 m
+576.500 201.592 l S
+endstream
+endobj
+
+13 0 obj
+<<
+/Length 1373 >>
+stream
+
+BT 41.000 146.612 Td /F1 10.0 Tf 0 Tr (Master using relational databases.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 157.592 m
+576.000 157.592 l S
+1 w
+Q
+BT 41.000 131.452 Td /F1 10.0 Tf 0 Tr (Master writing queries in relational data languages including SQL and relational algebra.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 142.432 m
+576.000 142.432 l S
+1 w
+Q
+BT 41.000 116.292 Td /F1 10.0 Tf 0 Tr (Master using mechanisms for data independence, including data models, languages and views.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 127.272 m
+576.000 127.272 l S
+1 w
+Q
+BT 41.000 101.132 Td /F1 10.0 Tf 0 Tr (Be competent with logical database design.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 112.112 m
+576.000 112.112 l S
+1 w
+Q
+BT 41.000 85.972 Td /F1 10.0 Tf 0 Tr (Be competent with conceptual database design.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 96.952 m
+576.000 96.952 l S
+1 w
+Q
+BT 41.000 70.812 Td /F1 10.0 Tf 0 Tr (Be familiar with object relational database technology.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 81.792 m
+576.000 81.792 l S
+1 w
+Q
+BT 41.000 55.652 Td /F1 10.0 Tf 0 Tr (Be exposed to XML and active databases.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 66.632 m
+576.000 66.632 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 157.592 m
+36.000 51.472 l S
+576.000 157.592 m
+576.000 51.472 l S
+35.500 157.592 m
+576.500 157.592 l S
+35.500 51.472 m
+576.500 51.472 l S
+endstream
+endobj
+
+14 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents [
+15 0 R
+16 0 R
+17 0 R
+18 0 R
+19 0 R
+20 0 R
+23 0 R
+24 0 R
+25 0 R
+26 0 R
+]
+>>
+endobj
+15 0 obj
+<<
+/Length 1815 >>
+stream
+
+1 w
+BT 36.000 724.000 Td /F2 14.0 Tf 0 Tr (Course Topics) Tj ET
+BT 36.000 712.000 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 692.428 540.000 19.572 re f
+1 w
+Q
+q
+0.900 0.900 0.900 rg
+36.000 659.928 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 629.608 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 599.288 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 568.968 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 538.648 540.000 15.160 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 493.668 Td /F2 14.0 Tf 0 Tr (Representative Assignments) Tj ET
+BT 36.000 481.668 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.900 0.900 0.900 rg
+36.000 464.328 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 434.008 540.000 15.160 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 404.188 Td /F2 14.0 Tf 0 Tr (Grades) Tj ET
+BT 36.000 392.188 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 372.616 540.000 19.572 re f
+1 w
+Q
+q
+0.900 0.900 0.900 rg
+36.000 340.116 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 309.796 540.000 15.160 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 279.976 Td /F2 14.0 Tf 0 Tr (Representative Textbooks and Other Course Materials) Tj ET
+BT 36.000 267.976 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 248.404 540.000 19.572 re f
+1 w
+Q
+q
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 201.244 Td /F2 14.0 Tf 0 Tr (ABET-EAC Criterion 3 Outcomes) Tj ET
+BT 36.000 189.244 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 169.672 540.000 19.572 re f
+1 w
+Q
+q
+0.900 0.900 0.900 rg
+36.000 137.172 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 106.852 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 76.532 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 35.052 540.000 26.320 re f
+1 w
+Q
+endstream
+endobj
+
+16 0 obj
+<<
+/Length 458 >>
+stream
+
+BT 41.000 696.608 Td /F2 12.0 Tf 0 Tr (Topic) Tj ET
+BT 301.000 696.608 Td /F2 12.0 Tf 0 Tr (Lec) Tj ET
+BT 336.000 696.608 Td /F2 12.0 Tf 0 Tr (Rec) Tj ET
+BT 371.000 696.608 Td /F2 12.0 Tf 0 Tr (Lab) Tj ET
+BT 406.000 696.608 Td /F2 12.0 Tf 0 Tr (Cli) Tj ET
+BT 441.000 696.608 Td /F2 12.0 Tf 0 Tr (IS) Tj ET
+BT 476.000 696.608 Td /F2 12.0 Tf 0 Tr (Sem) Tj ET
+BT 511.000 696.608 Td /F2 12.0 Tf 0 Tr (FE) Tj ET
+BT 546.000 696.608 Td /F2 12.0 Tf 0 Tr (Wor) Tj ET
+endstream
+endobj
+
+17 0 obj
+<<
+/Length 2617 >>
+stream
+
+BT 41.000 679.268 Td /F1 10.0 Tf 0 Tr (Introduction; Entity-Relationship \(ER\) Model) Tj ET
+BT 307.250 679.268 Td /F1 10.0 Tf 0 Tr (4.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 690.248 m
+576.000 690.248 l S
+1 w
+Q
+BT 41.000 664.108 Td /F1 10.0 Tf 0 Tr (The Structure of the Relational Data Model) Tj ET
+BT 307.250 664.108 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 675.088 m
+576.000 675.088 l S
+1 w
+Q
+BT 41.000 648.948 Td /F1 10.0 Tf 0 Tr (Relational Algebra and Relational Calculus) Tj ET
+BT 307.250 648.948 Td /F1 10.0 Tf 0 Tr (6.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 659.928 m
+576.000 659.928 l S
+1 w
+Q
+BT 41.000 633.788 Td /F1 10.0 Tf 0 Tr (Functional Dependencies and Normalization) Tj ET
+BT 307.250 633.788 Td /F1 10.0 Tf 0 Tr (8.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 644.768 m
+576.000 644.768 l S
+1 w
+Q
+BT 41.000 618.628 Td /F1 10.0 Tf 0 Tr (ER-to-Relational Data Model) Tj ET
+BT 307.250 618.628 Td /F1 10.0 Tf 0 Tr (1.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 629.608 m
+576.000 629.608 l S
+1 w
+Q
+BT 41.000 603.468 Td /F1 10.0 Tf 0 Tr (SQL) Tj ET
+BT 307.250 603.468 Td /F1 10.0 Tf 0 Tr (6.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 614.448 m
+576.000 614.448 l S
+1 w
+Q
+BT 41.000 588.308 Td /F1 10.0 Tf 0 Tr (Graphical User Interfaces) Tj ET
+BT 307.250 588.308 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 599.288 m
+576.000 599.288 l S
+1 w
+Q
+BT 41.000 573.148 Td /F1 10.0 Tf 0 Tr (Embedded SQL) Tj ET
+BT 307.250 573.148 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 584.128 m
+576.000 584.128 l S
+1 w
+Q
+BT 41.000 557.988 Td /F1 10.0 Tf 0 Tr (Object Relational Databases) Tj ET
+BT 307.250 557.988 Td /F1 10.0 Tf 0 Tr (4.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 568.968 m
+576.000 568.968 l S
+1 w
+Q
+BT 41.000 542.828 Td /F1 10.0 Tf 0 Tr (XML) Tj ET
+BT 307.250 542.828 Td /F1 10.0 Tf 0 Tr (3.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 553.808 m
+576.000 553.808 l S
+1 w
+Q
+BT 41.000 527.668 Td /F1 10.0 Tf 0 Tr (Active Databases) Tj ET
+BT 307.250 527.668 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 538.648 m
+576.000 538.648 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 712.000 m
+36.000 523.488 l S
+1 w
+296.000 712.000 m
+296.000 523.488 l S
+331.000 712.000 m
+331.000 523.488 l S
+366.000 712.000 m
+366.000 523.488 l S
+401.000 712.000 m
+401.000 523.488 l S
+436.000 712.000 m
+436.000 523.488 l S
+471.000 712.000 m
+471.000 523.488 l S
+506.000 712.000 m
+506.000 523.488 l S
+541.000 712.000 m
+541.000 523.488 l S
+1 w
+576.000 712.000 m
+576.000 523.488 l S
+35.500 712.000 m
+576.500 712.000 l S
+35.500 523.488 m
+576.500 523.488 l S
+endstream
+endobj
+
+18 0 obj
+<<
+/Length 703 >>
+stream
+
+BT 41.000 468.508 Td /F1 10.0 Tf 0 Tr (Provide SQL code which declares, populates, and queries a database) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 479.488 m
+576.000 479.488 l S
+1 w
+Q
+BT 41.000 453.348 Td /F1 10.0 Tf 0 Tr (Define and use a database using a database management systems software) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 464.328 m
+576.000 464.328 l S
+1 w
+Q
+BT 41.000 438.188 Td /F1 10.0 Tf 0 Tr (Write a Java program with embedded SQL code) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 449.168 m
+576.000 449.168 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 479.488 m
+36.000 434.008 l S
+576.000 479.488 m
+576.000 434.008 l S
+35.500 479.488 m
+576.500 479.488 l S
+35.500 434.008 m
+576.500 434.008 l S
+endstream
+endobj
+
+19 0 obj
+<<
+/Length 108 >>
+stream
+
+BT 41.000 376.796 Td /F2 12.0 Tf 0 Tr (Aspect) Tj ET
+BT 531.000 376.796 Td /F2 12.0 Tf 0 Tr (Percent) Tj ET
+endstream
+endobj
+
+20 0 obj
+<<
+/Length 928 >>
+stream
+
+BT 41.000 359.456 Td /F1 10.0 Tf 0 Tr (Homework) Tj ET
+BT 541.835 359.456 Td /F1 10.0 Tf 0 Tr (30%) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 370.436 m
+576.000 370.436 l S
+1 w
+Q
+BT 41.000 344.296 Td /F1 10.0 Tf 0 Tr (Project) Tj ET
+BT 541.835 344.296 Td /F1 10.0 Tf 0 Tr (20%) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 355.276 m
+576.000 355.276 l S
+1 w
+Q
+BT 41.000 329.136 Td /F1 10.0 Tf 0 Tr (Midterm Exam) Tj ET
+BT 541.835 329.136 Td /F1 10.0 Tf 0 Tr (20%) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 340.116 m
+576.000 340.116 l S
+1 w
+Q
+BT 41.000 313.976 Td /F1 10.0 Tf 0 Tr (Final Exam) Tj ET
+BT 541.835 313.976 Td /F1 10.0 Tf 0 Tr (30%) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 324.956 m
+576.000 324.956 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 392.188 m
+36.000 309.796 l S
+1 w
+526.000 392.188 m
+526.000 309.796 l S
+1 w
+576.000 392.188 m
+576.000 309.796 l S
+35.500 392.188 m
+576.500 392.188 l S
+35.500 309.796 m
+576.500 309.796 l S
+endstream
+endobj
+
+21 0 obj
+<< /Type /Encoding
+/BaseEncoding /WinAnsiEncoding
+
+>>
+endobj
+22 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding 21 0 R
+>>
+endobj
+23 0 obj
+<<
+/Length 106 >>
+stream
+
+BT 41.000 252.584 Td /F2 12.0 Tf 0 Tr (Title) Tj ET
+BT 363.187 252.584 Td /F2 12.0 Tf 0 Tr (Author) Tj ET
+endstream
+endobj
+
+24 0 obj
+<<
+/Length 479 >>
+stream
+
+BT 41.000 235.244 Td /F3 10.0 Tf 0 Tr (Fundamentals of Database Systems, Addison-Wesley, 5th edition) Tj ET
+BT 363.187 235.244 Td /F1 10.0 Tf 0 Tr (Ramez Elmasri and Shamkant Navathe) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 246.224 m
+576.000 246.224 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 267.976 m
+36.000 231.064 l S
+1 w
+358.187 267.976 m
+358.187 231.064 l S
+1 w
+576.000 267.976 m
+576.000 231.064 l S
+35.500 267.976 m
+576.500 267.976 l S
+35.500 231.064 m
+576.500 231.064 l S
+endstream
+endobj
+
+25 0 obj
+<<
+/Length 129 >>
+stream
+
+BT 41.000 173.852 Td /F2 12.0 Tf 0 Tr (Course Contribution) Tj ET
+BT 178.000 173.852 Td /F2 12.0 Tf 0 Tr (College Outcome) Tj ET
+endstream
+endobj
+
+26 0 obj
+<<
+/Length 2473 >>
+stream
+
+BT 41.000 156.512 Td /F1 10.0 Tf 0 Tr (***) Tj ET
+BT 162.280 156.512 Td /F1 10.0 Tf 0 Tr (a) Tj ET
+BT 178.000 156.512 Td /F1 10.0 Tf 0 Tr (An ability to apply knowledge of mathematics, science, and engineering.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 167.492 m
+576.000 167.492 l S
+1 w
+Q
+BT 41.000 141.352 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 162.000 141.352 Td /F1 10.0 Tf 0 Tr (b) Tj ET
+BT 178.000 141.352 Td /F1 10.0 Tf 0 Tr (An ability to design and conduct experiments, as well as to analyze and interpret data.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 152.332 m
+576.000 152.332 l S
+1 w
+Q
+BT 41.000 126.192 Td /F1 10.0 Tf 0 Tr (**) Tj ET
+BT 162.280 126.192 Td /F1 10.0 Tf 0 Tr (c) Tj ET
+BT 178.000 126.192 Td /F1 10.0 Tf 0 Tr (An ability to design a system, component, or process to meet desired needs.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 137.172 m
+576.000 137.172 l S
+1 w
+Q
+BT 41.000 111.032 Td /F1 10.0 Tf 0 Tr (***) Tj ET
+BT 162.000 111.032 Td /F1 10.0 Tf 0 Tr (d) Tj ET
+BT 178.000 111.032 Td /F1 10.0 Tf 0 Tr (An ability to function on multi-disciplinary teams.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 122.012 m
+576.000 122.012 l S
+1 w
+Q
+BT 41.000 95.872 Td /F1 10.0 Tf 0 Tr (**) Tj ET
+BT 162.280 95.872 Td /F1 10.0 Tf 0 Tr (e) Tj ET
+BT 178.000 95.872 Td /F1 10.0 Tf 0 Tr (An ability to identify, formulate, and solve engineering problems.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 106.852 m
+576.000 106.852 l S
+1 w
+Q
+BT 162.835 80.712 Td /F1 10.0 Tf 0 Tr (f) Tj ET
+BT 178.000 80.712 Td /F1 10.0 Tf 0 Tr (An understanding of professional and ethical responsibility.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 91.692 m
+576.000 91.692 l S
+1 w
+Q
+BT 41.000 65.552 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 162.000 65.552 Td /F1 10.0 Tf 0 Tr (g) Tj ET
+BT 178.000 65.552 Td /F1 10.0 Tf 0 Tr (An ability to communicate effectively.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 76.532 m
+576.000 76.532 l S
+1 w
+Q
+BT 162.000 50.392 Td /F1 10.0 Tf 0 Tr (h) Tj ET
+BT 178.000 50.392 Td /F1 10.0 Tf 0 Tr (The broad education necessary to understand the impact of engineering solutions in a global and ) Tj ET
+BT 178.000 39.232 Td /F1 10.0 Tf 0 Tr (societal context.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 61.372 m
+576.000 61.372 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 189.244 m
+36.000 35.052 l S
+1 w
+156.000 189.244 m
+156.000 35.052 l S
+173.000 189.244 m
+173.000 35.052 l S
+1 w
+576.000 189.244 m
+576.000 35.052 l S
+35.500 189.244 m
+576.500 189.244 l S
+35.500 35.052 m
+576.500 35.052 l S
+endstream
+endobj
+
+27 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents [
+28 0 R
+29 0 R
+30 0 R
+31 0 R
+]
+>>
+endobj
+28 0 obj
+<<
+/Length 819 >>
+stream
+
+1 w
+q
+q
+0.900 0.900 0.900 rg
+36.000 703.928 540.000 15.160 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 647.788 Td /F2 14.0 Tf 0 Tr (BS CSE Program Outcomes) Tj ET
+BT 36.000 635.788 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 616.216 540.000 19.572 re f
+1 w
+Q
+q
+0.900 0.900 0.900 rg
+36.000 572.556 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 508.756 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 478.436 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 436.956 540.000 26.320 re f
+0.900 0.900 0.900 rg
+36.000 395.476 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 342.836 540.000 26.320 re f
+0.900 0.900 0.900 rg
+36.000 279.036 540.000 26.320 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 257.216 Td /F2 12.0 Tf 0 Tr (Prepared by:) Tj /F1 12.0 Tf 0 Tr ( Hakan Ferhatosmanoglu) Tj ET
+endstream
+endobj
+
+29 0 obj
+<<
+/Length 1479 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 41.000 740.608 Td /F2 12.0 Tf 0 Tr (Course Contribution) Tj ET
+BT 178.000 740.608 Td /F2 12.0 Tf 0 Tr (College Outcome) Tj ET
+0.800 0.800 0.800 rg
+36.000 736.428 540.000 19.572 re f
+0.000 0.000 0.000 rg
+BT 41.000 740.608 Td /F2 12.0 Tf 0 Tr (Course Contribution) Tj ET
+BT 178.000 740.608 Td /F2 12.0 Tf 0 Tr (College Outcome) Tj ET
+BT 41.000 723.268 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 163.110 723.268 Td /F1 10.0 Tf 0 Tr (i) Tj ET
+BT 178.000 723.268 Td /F1 10.0 Tf 0 Tr (A recognition of the need for, and an ability to engage in life-long learning.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 734.248 m
+576.000 734.248 l S
+1 w
+Q
+BT 163.110 708.108 Td /F1 10.0 Tf 0 Tr (j) Tj ET
+BT 178.000 708.108 Td /F1 10.0 Tf 0 Tr (A knowledge of contemporary issues.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 719.088 m
+576.000 719.088 l S
+1 w
+Q
+BT 41.000 692.948 Td /F1 10.0 Tf 0 Tr (***) Tj ET
+BT 162.000 692.948 Td /F1 10.0 Tf 0 Tr (k) Tj ET
+BT 178.000 692.948 Td /F1 10.0 Tf 0 Tr (An ability to use the techniques, skills, and modern engineering tools necessary for engineering ) Tj ET
+BT 178.000 681.788 Td /F1 10.0 Tf 0 Tr (practice.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 703.928 m
+576.000 703.928 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 756.000 m
+36.000 677.608 l S
+1 w
+156.000 756.000 m
+156.000 677.608 l S
+173.000 756.000 m
+173.000 677.608 l S
+1 w
+576.000 756.000 m
+576.000 677.608 l S
+35.500 756.000 m
+576.500 756.000 l S
+35.500 677.608 m
+576.500 677.608 l S
+endstream
+endobj
+
+30 0 obj
+<<
+/Length 129 >>
+stream
+
+BT 41.000 620.396 Td /F2 12.0 Tf 0 Tr (Course Contribution) Tj ET
+BT 180.780 620.396 Td /F2 12.0 Tf 0 Tr (Program Outcome) Tj ET
+endstream
+endobj
+
+31 0 obj
+<<
+/Length 5396 >>
+stream
+
+BT 41.000 603.056 Td /F1 10.0 Tf 0 Tr (***) Tj ET
+BT 163.670 603.056 Td /F1 10.0 Tf 0 Tr (a) Tj ET
+BT 180.780 603.056 Td /F1 10.0 Tf 0 Tr (an ability to apply knowledge of computing, mathematics including discrete mathematics as ) Tj ET
+BT 180.780 591.896 Td /F1 10.0 Tf 0 Tr (well as probability and statistics, science, and engineering;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 614.036 m
+576.000 614.036 l S
+1 w
+Q
+BT 41.000 576.736 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 163.390 576.736 Td /F1 10.0 Tf 0 Tr (b) Tj ET
+BT 180.780 576.736 Td /F1 10.0 Tf 0 Tr (an ability to design and conduct experiments, as well as to analyze and interpret data; ) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 587.716 m
+576.000 587.716 l S
+1 w
+Q
+BT 41.000 561.576 Td /F1 10.0 Tf 0 Tr (**) Tj ET
+BT 163.670 561.576 Td /F1 10.0 Tf 0 Tr (c) Tj ET
+BT 180.780 561.576 Td /F1 10.0 Tf 0 Tr (an ability to design, implement, and evaluate a software or a software/hardware system, ) Tj ET
+BT 180.780 550.416 Td /F1 10.0 Tf 0 Tr (component, or process to meet desired needs within realistic constraints such as memory, ) Tj ET
+BT 180.780 539.256 Td /F1 10.0 Tf 0 Tr (runtime efficiency, as well as appropriate constraints related to economic, environmental, social, ) Tj ET
+BT 180.780 528.096 Td /F1 10.0 Tf 0 Tr (political, ethical, health and safety, manufacturability, and sustainability considerations;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 572.556 m
+576.000 572.556 l S
+1 w
+Q
+BT 41.000 512.936 Td /F1 10.0 Tf 0 Tr (***) Tj ET
+BT 163.390 512.936 Td /F1 10.0 Tf 0 Tr (d) Tj ET
+BT 180.780 512.936 Td /F1 10.0 Tf 0 Tr (an ability to function on multi-disciplinary teams; ) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 523.916 m
+576.000 523.916 l S
+1 w
+Q
+BT 41.000 497.776 Td /F1 10.0 Tf 0 Tr (**) Tj ET
+BT 163.670 497.776 Td /F1 10.0 Tf 0 Tr (e) Tj ET
+BT 180.780 497.776 Td /F1 10.0 Tf 0 Tr (an ability to identify, formulate, and solve engineering problems; ) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 508.756 m
+576.000 508.756 l S
+1 w
+Q
+BT 164.225 482.616 Td /F1 10.0 Tf 0 Tr (f) Tj ET
+BT 180.780 482.616 Td /F1 10.0 Tf 0 Tr (an understanding of professional, ethical, legal, security and social issues and responsibilities;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 493.596 m
+576.000 493.596 l S
+1 w
+Q
+BT 41.000 467.456 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 163.390 467.456 Td /F1 10.0 Tf 0 Tr (g) Tj ET
+BT 180.780 467.456 Td /F1 10.0 Tf 0 Tr (an ability to communicate effectively with a range of audiences; ) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 478.436 m
+576.000 478.436 l S
+1 w
+Q
+BT 163.390 452.296 Td /F1 10.0 Tf 0 Tr (h) Tj ET
+BT 180.780 452.296 Td /F1 10.0 Tf 0 Tr (an ability to analyze the local and global impact of computing on individuals, organizations, and ) Tj ET
+BT 180.780 441.136 Td /F1 10.0 Tf 0 Tr (society;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 463.276 m
+576.000 463.276 l S
+1 w
+Q
+BT 41.000 425.976 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 164.500 425.976 Td /F1 10.0 Tf 0 Tr (i) Tj ET
+BT 180.780 425.976 Td /F1 10.0 Tf 0 Tr (a recognition of the need for, and an ability to engage in life-long learning and continuing ) Tj ET
+BT 180.780 414.816 Td /F1 10.0 Tf 0 Tr (professional development;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 436.956 m
+576.000 436.956 l S
+1 w
+Q
+BT 164.500 399.656 Td /F1 10.0 Tf 0 Tr (j) Tj ET
+BT 180.780 399.656 Td /F1 10.0 Tf 0 Tr (a knowledge of contemporary issues; ) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 410.636 m
+576.000 410.636 l S
+1 w
+Q
+BT 41.000 384.496 Td /F1 10.0 Tf 0 Tr (***) Tj ET
+BT 163.390 384.496 Td /F1 10.0 Tf 0 Tr (k) Tj ET
+BT 180.780 384.496 Td /F1 10.0 Tf 0 Tr (an ability to use the techniques, skills, and modern engineering tools necessary for practice as a ) Tj ET
+BT 180.780 373.336 Td /F1 10.0 Tf 0 Tr (CSE professional;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 395.476 m
+576.000 395.476 l S
+1 w
+Q
+BT 41.000 358.176 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 164.500 358.176 Td /F1 10.0 Tf 0 Tr (l) Tj ET
+BT 180.780 358.176 Td /F1 10.0 Tf 0 Tr (an ability to analyze a problem, and identify and define the computing requirements appropriate ) Tj ET
+BT 180.780 347.016 Td /F1 10.0 Tf 0 Tr (to its solution;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 369.156 m
+576.000 369.156 l S
+1 w
+Q
+BT 41.000 331.856 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 162.000 331.856 Td /F1 10.0 Tf 0 Tr (m) Tj ET
+BT 180.780 331.856 Td /F1 10.0 Tf 0 Tr (an ability to apply mathematical foundations, algorithmic principles, and computer science ) Tj ET
+BT 180.780 320.696 Td /F1 10.0 Tf 0 Tr (theory in the modeling and design of computer-based systems in a way that demonstrates ) Tj ET
+BT 180.780 309.536 Td /F1 10.0 Tf 0 Tr (comprehension of the tradeoffs involved in design choices;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 342.836 m
+576.000 342.836 l S
+1 w
+Q
+BT 41.000 294.376 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 163.390 294.376 Td /F1 10.0 Tf 0 Tr (n) Tj ET
+BT 180.780 294.376 Td /F1 10.0 Tf 0 Tr (an ability to apply design and development principles in the construction of software systems of ) Tj ET
+BT 180.780 283.216 Td /F1 10.0 Tf 0 Tr (varying complexity.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 305.356 m
+576.000 305.356 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 635.788 m
+36.000 279.036 l S
+1 w
+156.000 635.788 m
+156.000 279.036 l S
+175.780 635.788 m
+175.780 279.036 l S
+1 w
+576.000 635.788 m
+576.000 279.036 l S
+35.500 635.788 m
+576.500 635.788 l S
+35.500 279.036 m
+576.500 279.036 l S
+endstream
+endobj
+
+xref
+0 32
+0000000000 65535 f 
+0000000019 00000 n 
+0000000083 00000 n 
+0000000120 00000 n 
+0000000298 00000 n 
+0000000327 00000 n 
+0000000437 00000 n 
+0000000525 00000 n 
+0000004494 00000 n 
+0000004603 00000 n 
+0000004672 00000 n 
+0000004770 00000 n 
+0000004941 00000 n 
+0000005419 00000 n 
+0000006846 00000 n 
+0000006978 00000 n 
+0000008847 00000 n 
+0000009358 00000 n 
+0000012029 00000 n 
+0000012785 00000 n 
+0000012946 00000 n 
+0000013927 00000 n 
+0000013997 00000 n 
+0000014098 00000 n 
+0000014257 00000 n 
+0000014789 00000 n 
+0000014971 00000 n 
+0000017498 00000 n 
+0000017588 00000 n 
+0000018460 00000 n 
+0000019993 00000 n 
+0000020175 00000 n 
+
+trailer
+  << /Size 32
+     /Root 1 0 R
+ /Info 5 0 R
+  >>
+startxref
+25625
+%%EOF
